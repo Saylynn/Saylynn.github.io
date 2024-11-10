@@ -21,4 +21,7 @@ byte7: cd /tmp
 tar -xvzf byte7.tar.gz
 cat byte7.txt
 tar_jokes_dont_stick
-byte8:
+byte8: man xxd
+xxd carriage_return.txt
+no_more_secrets_from_you
+byte9: 
