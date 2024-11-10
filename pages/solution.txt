@@ -1,1 +1,5 @@
 
+byte0: You made it this far!! Challenge complete! Congratulations!
+
+Your secret code is: now_you_know_how_to_change_directories
+byte1: 
