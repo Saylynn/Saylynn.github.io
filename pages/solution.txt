@@ -10,4 +10,9 @@ byte3: diff shakespeare.modified.txt shakespeare.txt
 programmers;
 byte4: find -type f -name "cup.txt" 
 you_just_found_the_triwizard_cup
-byte5: 
+byte5: cd /tmp
+mkdir byte5
+gcc byte5.c -o byte5
+./byte5 sdi 2000032
+sdi2000032_1731258841_-434291936_62_74_8_105_63089_22
+byte6:
