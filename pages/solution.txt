@@ -29,4 +29,6 @@ filepaths_can_be_useful
 byte10: sort i_wonder_what_this_does names.txt
 head -n 10 i_wonder_what_this_does names.txt
 Angelique
-byte11: 
+byte11: sort births.txt | uniq -c
+Dreddi
+Eleanora
