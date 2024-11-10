@@ -4,4 +4,6 @@ byte1: man supercalifragilisticexpialidocious
 in_every_job_that_must_be_done_there_is_an_element_for_fun
 byte2: grep "will find" shakespeare.txt
 grep_is_your_friend
-byte3: 
+byte3: diff shakespeare.modified.txt shakespeare.txt
+programmers;
+byte4: 
