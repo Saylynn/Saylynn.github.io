@@ -1,5 +1,7 @@
 
-byte0: You made it this far!! Challenge complete! Congratulations!
-
-Your secret code is: now_you_know_how_to_change_directories
-byte1: 
+byte0: now_you_know_how_to_change_directories
+byte1: man supercalifragilisticexpialidocious
+in_every_job_that_must_be_done_there_is_an_element_for_fun
+byte2: grep "will find" shakespeare.txt
+grep_is_your_friend
+byte3: 
