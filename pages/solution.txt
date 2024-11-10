@@ -15,4 +15,6 @@ mkdir byte5
 gcc byte5.c -o byte5
 ./byte5 sdi 2000032
 sdi2000032_1731258841_-434291936_62_74_8_105_63089_22
-byte6:
+byte6: cat byte6.zip
+unzipping_was_never_so_easy
+byte7:
